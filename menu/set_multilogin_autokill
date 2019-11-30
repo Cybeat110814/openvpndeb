@@ -2,7 +2,7 @@
 
 clear
 echo -e ""
-echo -e " == BonvScript == " | lolcat -a
+echo -e " == Cybeat == " | lolcat -a
 echo -e ""
 echo -e "   [1] AutoKill After 5 Minutes"
 echo -e "   [2] AutoKill After 15 Minutes"
